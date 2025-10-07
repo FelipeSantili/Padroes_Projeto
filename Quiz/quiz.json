@@ -1,0 +1,266 @@
+{
+  "quiz": {
+    "perguntas": [
+      {
+        "pergunta": "Qual empresa criou o personagem Mario?",
+        "dificuldade": 1,
+        "alternativas": [
+          {"alt": "Nintendo", "correct": true},
+          {"alt": "Sega", "correct": false},
+          {"alt": "Sony", "correct": false},
+          {"alt": "Capcom", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Qual jogo popularizou o gênero Battle Royale?",
+        "dificuldade": 1,
+        "alternativas": [
+          {"alt": "PUBG", "correct": true},
+          {"alt": "Fortnite", "correct": false},
+          {"alt": "Free Fire", "correct": false},
+          {"alt": "Call of Duty: Warzone", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Qual desses consoles pertence à Microsoft?",
+        "dificuldade": 1,
+        "alternativas": [
+          {"alt": "PlayStation", "correct": false},
+          {"alt": "Xbox", "correct": true},
+          {"alt": "GameCube", "correct": false},
+          {"alt": "Switch", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Qual desses jogos é de futebol?",
+        "dificuldade": 1,
+        "alternativas": [
+          {"alt": "FIFA", "correct": true},
+          {"alt": "Street Fighter", "correct": false},
+          {"alt": "Minecraft", "correct": false},
+          {"alt": "Halo", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Qual é o nome do ouriço azul famoso dos videogames?",
+        "dificuldade": 1,
+        "alternativas": [
+          {"alt": "Sonic", "correct": true},
+          {"alt": "Shadow", "correct": false},
+          {"alt": "Knuckles", "correct": false},
+          {"alt": "Crash", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Em qual jogo aparece o personagem Link?",
+        "dificuldade": 1,
+        "alternativas": [
+          {"alt": "The Legend of Zelda", "correct": true},
+          {"alt": "Final Fantasy", "correct": false},
+          {"alt": "Metroid", "correct": false},
+          {"alt": "Dragon Quest", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Qual é o nome do encanador irmão do Mario?",
+        "dificuldade": 1,
+        "alternativas": [
+          {"alt": "Luigi", "correct": true},
+          {"alt": "Yoshi", "correct": false},
+          {"alt": "Toad", "correct": false},
+          {"alt": "Waluigi", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Em Pokémon, qual é o mascote da franquia?",
+        "dificuldade": 1,
+        "alternativas": [
+          {"alt": "Charmander", "correct": false},
+          {"alt": "Squirtle", "correct": false},
+          {"alt": "Pikachu", "correct": true},
+          {"alt": "Bulbasaur", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Qual desses jogos foi lançado primeiro?",
+        "dificuldade": 2,
+        "alternativas": [
+          {"alt": "World of Warcraft", "correct": true},
+          {"alt": "Minecraft", "correct": false},
+          {"alt": "League of Legends", "correct": false},
+          {"alt": "Overwatch", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Qual desses é um MMORPG?",
+        "dificuldade": 2,
+        "alternativas": [
+          {"alt": "World of Warcraft", "correct": true},
+          {"alt": "Counter-Strike", "correct": false},
+          {"alt": "Fortnite", "correct": false},
+          {"alt": "Valorant", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Qual jogo ficou famoso por seu modo de criação com blocos?",
+        "dificuldade": 2,
+        "alternativas": [
+          {"alt": "Minecraft", "correct": true},
+          {"alt": "Roblox", "correct": false},
+          {"alt": "Terraria", "correct": false},
+          {"alt": "Lego Worlds", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Quem é o protagonista da série Halo?",
+        "dificuldade": 2,
+        "alternativas": [
+          {"alt": "Master Chief", "correct": true},
+          {"alt": "Marcus Fenix", "correct": false},
+          {"alt": "Solid Snake", "correct": false},
+          {"alt": "Kratos", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Em qual cidade fictícia se passa grande parte da série GTA?",
+        "dificuldade": 2,
+        "alternativas": [
+          {"alt": "Los Santos", "correct": true},
+          {"alt": "Vice City", "correct": false},
+          {"alt": "Liberty City", "correct": false},
+          {"alt": "San Fierro", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Qual arma é símbolo da franquia Doom?",
+        "dificuldade": 2,
+        "alternativas": [
+          {"alt": "BFG 9000", "correct": true},
+          {"alt": "Plasma Rifle", "correct": false},
+          {"alt": "Rocket Launcher", "correct": false},
+          {"alt": "Shotgun", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Em The Witcher, qual é o nome do protagonista?",
+        "dificuldade": 2,
+        "alternativas": [
+          {"alt": "Geralt de Rívia", "correct": true},
+          {"alt": "Ezio Auditore", "correct": false},
+          {"alt": "Dovahkiin", "correct": false},
+          {"alt": "Ciri", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Qual desses jogos faz parte da franquia Resident Evil?",
+        "dificuldade": 2,
+        "alternativas": [
+          {"alt": "Biohazard", "correct": true},
+          {"alt": "Dead Rising", "correct": false},
+          {"alt": "Silent Hill", "correct": false},
+          {"alt": "Outlast", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Qual foi o primeiro jogo da história considerado um RPG eletrônico?",
+        "dificuldade": 3,
+        "alternativas": [
+          {"alt": "Dungeon (1975)", "correct": true},
+          {"alt": "Dragon Quest", "correct": false},
+          {"alt": "Final Fantasy", "correct": false},
+          {"alt": "Ultima", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Qual jogo é creditado por ter criado o gênero survival horror?",
+        "dificuldade": 3,
+        "alternativas": [
+          {"alt": "Alone in the Dark", "correct": true},
+          {"alt": "Silent Hill", "correct": false},
+          {"alt": "Resident Evil", "correct": false},
+          {"alt": "Fatal Frame", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Qual foi o primeiro jogo a ser lançado com gráficos 3D poligonais em console?",
+        "dificuldade": 3,
+        "alternativas": [
+          {"alt": "Virtua Fighter", "correct": true},
+          {"alt": "Super Mario 64", "correct": false},
+          {"alt": "Star Fox", "correct": false},
+          {"alt": "Tekken", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Qual jogo foi o primeiro a ultrapassar 1 bilhão de dólares em vendas?",
+        "dificuldade": 3,
+        "alternativas": [
+          {"alt": "GTA V", "correct": true},
+          {"alt": "Call of Duty: Modern Warfare 2", "correct": false},
+          {"alt": "Minecraft", "correct": false},
+          {"alt": "The Sims", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Em que ano foi fundado o estúdio Blizzard Entertainment?",
+        "dificuldade": 3,
+        "alternativas": [
+          {"alt": "1991", "correct": true},
+          {"alt": "1987", "correct": false},
+          {"alt": "1995", "correct": false},
+          {"alt": "2000", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Qual é o nome verdadeiro de Solid Snake em Metal Gear?",
+        "dificuldade": 3,
+        "alternativas": [
+          {"alt": "David", "correct": true},
+          {"alt": "Jack", "correct": false},
+          {"alt": "Ethan", "correct": false},
+          {"alt": "Adam", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Em Dark Souls, qual é o nome da primeira fogueira central usada pelo jogador?",
+        "dificuldade": 3,
+        "alternativas": [
+          {"alt": "Firelink Shrine", "correct": true},
+          {"alt": "Anor Londo", "correct": false},
+          {"alt": "Undead Parish", "correct": false},
+          {"alt": "Blighttown", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Qual é o nome da IA que acompanha o Master Chief em Halo?",
+        "dificuldade": 3,
+        "alternativas": [
+          {"alt": "Cortana", "correct": true},
+          {"alt": "EDI", "correct": false},
+          {"alt": "Siri", "correct": false},
+          {"alt": "Athena", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Em Final Fantasy VII, qual é o nome da organização inimiga principal?",
+        "dificuldade": 3,
+        "alternativas": [
+          {"alt": "Shinra", "correct": true},
+          {"alt": "Avalanche", "correct": false},
+          {"alt": "SeeD", "correct": false},
+          {"alt": "Akatsuki", "correct": false}
+        ]
+      },
+      {
+        "pergunta": "Em The Elder Scrolls V: Skyrim, qual é o grito de dragão mais famoso?",
+        "dificuldade": 3,
+        "alternativas": [
+          {"alt": "Fus Ro Dah", "correct": true},
+          {"alt": "Od Ah Viing", "correct": false},
+          {"alt": "Yol Toor Shul", "correct": false},
+          {"alt": "Dovahkiin", "correct": false}
+        ]
+      }
+    ]
+  }
+}
